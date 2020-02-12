@@ -528,6 +528,7 @@ return array(
     'RSD - Serbian dinar' => 'RSD - Serbian dinar',
     // 'CNY - Chinese Yuan' => '',
     'USD - US Dollar' => 'USD - US Dollar',
+    // 'VES - Venezuelan Bolívar' => '',
     'Destination column' => 'Στήλη προορισμού',
     'Move the task to another column when assigned to a user' => 'Μετακινήστε την εργασία σε άλλη στήλη όταν ανατεθεί σε ένα χρήστη',
     'Move the task to another column when assignee is cleared' => 'Μετακινήστε την εργασία σε άλλη στήλη όταν ο εκδοχέας είναι ελεύθερος',
@@ -1406,4 +1407,8 @@ return array(
     // 'Automatically update the start date when the task is moved away from a specific column' => '',
     // 'HTTP Client:' => '',
     // 'XBT - bitcoin' => '',
+    // 'Assigned' => '',
+    // 'Task limits apply to each swimlane individually' => '',
+    // 'Task limits are applied to each swimlane individually' => '',
+    // 'Task limits are applied across swimlanes' => '',
 );
